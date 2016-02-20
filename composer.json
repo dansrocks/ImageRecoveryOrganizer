@@ -1,0 +1,13 @@
+{
+    "name": "vendor/image-recovery-organizer",
+    "description": "Script to re-organize .jpg files according with its exif meta-data.",
+    "authors": [
+        {
+            "name": "Dans Norvey (Daniel Cabrera)",
+            "email": "drocks2000@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "v3.0.*"
+    }
+}
